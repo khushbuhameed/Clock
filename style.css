@@ -1,0 +1,12 @@
+body{
+    background: url(img/clock2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container-time{
+    /* margin: 12px 33px; */
+    padding: 190px;
+}
+.card:hover{
+   background-color:  rgb(223, 216, 230);
+}
