@@ -19,7 +19,7 @@ Please adhere to this project's `code of conduct`.
 ## Demo
 
  live site here!!
-- [@live site here](https://khushbuhameed.github.io/Business_Website/)
+- [@live site here](https://khushbuhameed.github.io/Clock/)
 ## Tech Stack
 
 **Client:**  html, CSS , JavaScript And Bootstrap
