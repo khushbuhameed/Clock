@@ -1,6 +1,6 @@
 
 # Clock
-This is simple Clock I made this project with the help of html, CSS, JavaScript and bootstrap..!! In this clock user can see the time and date...only!!
+This is simple Clock I made this project with the help of html, CSS, JavaScript and bootstrap..!! In this clock user can see the time and date...only!!!
 ## Authors
 
 - [@khushbuhameed](https://github.com/khushbuhameed)
